@@ -1,0 +1,21 @@
+body {
+    background: #f7e5d5;
+}
+
+h1 {
+    color: #000000;
+    font-family: "Anta", sans-serif;
+}
+
+h2 {
+    font-family: "Lato", sans-serif;
+}
+
+.options {
+    font-style: italic
+}
+
+li {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
