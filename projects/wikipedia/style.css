@@ -1,0 +1,22 @@
+h1 {
+    font-family: "Open Sans", sans-serif;
+    color: #000000
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    color: #000000
+}
+
+.options {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: #e3d9d7
+}
+
+.picture {
+    height: 300px;
+    width: 500px
+}
