@@ -1,0 +1,51 @@
+body,
+p {
+    text-align: center;
+    font-family: "Roboto Slab";
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1,
+h2 {
+    padding: 25px;
+    font-family: "Sedan SC", serif;
+    font-weight: bold;
+}
+
+.coach {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.info {
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+#headerimg {
+    width: 1800px;
+    height: 1000px;
+}
+
+#mainimages {
+    height: 430px;
+    width: 600px;
+    padding: 20px;
+}
+
+.container {
+    width: 900px
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 75%;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        width: 95%;
+    }
+}
