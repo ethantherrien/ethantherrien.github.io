@@ -1,9 +1,7 @@
-body,
-p {
+body {
     text-align: center;
     font-family: "Roboto Slab";
-    margin-left: 50px;
-    margin-right: 50px;
+    background-color: lightgrey;
 }
 
 h1,
@@ -18,24 +16,21 @@ h2 {
     color: white;
 }
 
-.info {
-    background-color: lightgrey;
-    padding: 20px;
-}
-
-#headerimg {
+header img {
     width: 1800px;
-    height: 1000px;
 }
 
-#mainimages {
-    height: 430px;
+main img {
     width: 600px;
-    padding: 20px;
+    padding: 1em 0 2em 0;
+}
+
+section {
+    padding: 1em 0;
 }
 
 .container {
-    width: 900px
+    width: 900px;
 }
 
 @media (max-width: 768px) {
